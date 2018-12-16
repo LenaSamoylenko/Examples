@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\bin\Debug\LoadFiles.exe.config
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\bin\Debug\LoadFiles.exe
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\bin\Debug\LoadFiles.pdb
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\obj\Debug\LoadFiles.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\obj\Debug\LoadFiles.Properties.Resources.resources
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\obj\Debug\LoadFiles.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\obj\Debug\LoadFiles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\obj\Debug\LoadFiles.exe
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\obj\Debug\LoadFiles.pdb
+C:\Users\Admin\Documents\LenaSamoylenko\CS_Elementary_2\LenaSamoylenko\LoadFiles\LoadFiles\obj\Debug\LoadFiles.DownloadFile.resources
